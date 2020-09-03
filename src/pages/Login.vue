@@ -77,10 +77,10 @@ export default {
   box-shadow: none;
   border: 1px solid white;
   padding-left: 25%;
+  outline:none;
 }
 input:hover{
   border: 1px solid gray;
-  outline:none;
   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
 }
 .geet {
